@@ -1,4 +1,5 @@
 body {
+
     background-color: #ececea;
     margin: 0;
     padding: 0;
@@ -23,3 +24,67 @@ nav ul {
     color: #d8d9da;
     transition: 0.3s;
   }
+=======
+    font-size: 24px;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    background-color: #fff;
+    color: #1d1d1f;
+    font-style: normal;
+   
+}
+
+.Iphone_title{
+
+    padding: 10px;
+    display: flexbox;
+  
+    text-align: center;
+    background-color: #fff;
+    
+  
+}
+
+
+a{ 
+    text-decoration: none;
+}
+
+
+    img {
+       
+       
+    background: url(img_man.jpg) no-repeat center; 
+  background-size: cover;
+  height: 500px;
+  position: relative;
+      }
+
+.class1{
+
+background-color:black;
+color: #fff;
+text-align: center;
+    
+
+}
+
+.flexbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: #fff;
+}
+
+.class2{
+    display: flex;
+   justify-content: space-around;
+    flex-direction: row;
+  flex-wrap: wrap;
+    align-items: center;
+}
+
+.wrapper {
+    display: flex;
+}
+
