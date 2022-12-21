@@ -1,9 +1,12 @@
 body {
+    font-size: 24px;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    background-color: #fff;
+    color: #1d1d1f;
+    font-style: normal;
+   
+}
 
-    background-color: #ececea;
-    margin: 0;
-    padding: 0;
-    }
 
 nav ul {
     display: flex;
@@ -24,14 +27,7 @@ nav ul {
     color: #d8d9da;
     transition: 0.3s;
   }
-=======
-    font-size: 24px;
-    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
-    background-color: #fff;
-    color: #1d1d1f;
-    font-style: normal;
-   
-}
+
 
 .Iphone_title{
 
